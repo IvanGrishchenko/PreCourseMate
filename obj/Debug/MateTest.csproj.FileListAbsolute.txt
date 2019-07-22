@@ -1,0 +1,7 @@
+C:\Users\Иван\source\repos\MateTest\MateTest\bin\Debug\MateTest.exe.config
+C:\Users\Иван\source\repos\MateTest\MateTest\bin\Debug\MateTest.exe
+C:\Users\Иван\source\repos\MateTest\MateTest\bin\Debug\MateTest.pdb
+C:\Users\Иван\source\repos\MateTest\MateTest\obj\Debug\MateTest.csprojAssemblyReference.cache
+C:\Users\Иван\source\repos\MateTest\MateTest\obj\Debug\MateTest.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\MateTest\MateTest\obj\Debug\MateTest.exe
+C:\Users\Иван\source\repos\MateTest\MateTest\obj\Debug\MateTest.pdb
